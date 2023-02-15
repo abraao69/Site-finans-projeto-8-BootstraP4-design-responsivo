@@ -2,7 +2,7 @@
 
 <hr>
 <p align="center">
- <img width="900px" src="https://user-images.githubusercontent.com/103331086/219086177-f3466e6b-bd45-4a2f-bedf-5f6cfa052406.PNG" />
+ <img width="900px" src="https://user-images.githubusercontent.com/103331086/219087953-ff229a5b-5470-486e-b6cc-95166f865ff9.png" />
 </p>
 
 📚 Sobre
